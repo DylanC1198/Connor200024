@@ -1,2 +1,9 @@
 ### Hi there 👋
-### I guess this is a thing huh, awesome.. Well i dev discord bots and websites yeah.. 😊
+
+### Thanks for taking a look at my GitHub Profile.. 😎
+
+### I am a Verified Discord Bot Developer, Website Developer! 💻
+
+### From the United Kingdom!
+
+### Join My Discord: https://discord.gg/N2wU9rf
