@@ -15,7 +15,9 @@
 
 - 🐦Follow me on Twitter: [Click Here](https://twitter.com/Connor200024).
 
-- ✉ Send me an Email: **Connor200024@gmail.com
+- ✉ Send me an Email: **Connor200024@gmail.com**.
+
+- 🖥 Join my Development Server for all updates. [Click Here](https://discord.gg/dRxgAJXjNQ)
 <hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hola-sebas&show_icons=true&theme=radical" alt="hola-sebas" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hola-sebas&layout=compact&theme=radical" alt="hola-sebas" /></p>
