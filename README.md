@@ -4,8 +4,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hola-sebas" alt="hola-sebas" />
 </p>
-
-<h1 align="center">Things.</h1>
+<h1 align="center">Social Media Links: 🔗</h1>
 
 - 🏠 Working on BotHouse. (A Discord Bot List) 
 
@@ -17,6 +16,9 @@
 
 - ✉ Send me an Email: **Connor200024@gmail.com**.
 
-- 🖥 Join my Development Server for all updates. [Click Here](https://discord.gg/dRxgAJXjNQ)
-<hr>
+- 🖥 Join my Development Server for all updates [Click Here](https://discord.gg/dRxgAJXjNQ).
 
+- 🥳 Follow Connor's Development on Twitter: [Click Here](https://twitter.com/ConnorsDevelop).
+
+- 🎉 Follow MemeBot on Twitter: [Click Here](https://twitter.com/MemeyBottt).
+<hr>
