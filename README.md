@@ -16,8 +16,6 @@
 
 - ✉ Send me an Email: **Connor200024@gmail.com**.
 
-- 🖥 Join my Development Server for all updates [Click Here](https://discord.gg/dRxgAJXjNQ).
-
 - 🥳 Follow Connor's Development on Twitter: [Click Here](https://twitter.com/ConnorsDevelop).
 
 - 🎉 Follow MemeBot on Twitter: [Click Here](https://twitter.com/MemeyBottt).
