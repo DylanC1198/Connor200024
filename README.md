@@ -6,11 +6,9 @@
 </p>
 <h1 align="center">Social Media Links: 🔗</h1>
 
-- 🏠 Working on BotHouse. (A Discord Bot List) 
+- 🏠 Working on BotHouse. [Click Here](https://bothouse.xyz)
 
 - 🤖 Working on MemeBot.
-
-- 😎 Join my Community Server: [Click Here](https://discord.gg/N2wU9rf).
 
 - 🐦Follow me on Twitter: [Click Here](https://twitter.com/Connor200024).
 
