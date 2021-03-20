@@ -8,9 +8,6 @@
   <a href="https://discord.com/users/324646179134636043">
     <img src="https://img.shields.io/badge/Connor200024%230001-%237289da?logo=discord&style=flat-square" alt="Connor200024#0001"/>
   </a>
-  <a href="https://twitter.com/Connor200024">
-    <img src="https://img.shields.io/badge/Twitter-Connor200024-%231DA1F2?logo=twitter&style=flat-square" alt="Connor2000024"/>
-  </a>
 </p>
 
 <h1 align="center">Current Projects: 🤔</h1>
