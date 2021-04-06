@@ -24,7 +24,10 @@
 
 - Station Founder & Head Developer for: [Simulation.FM](https://simulation.fm/v1/)
 
-- Working on something cool. (You will see haha!)
+- Owner of DisListing (Coming Soon)
+
+- Owner of widget.style: [widgetstyle](https://widget.style/)
+
 <hr>
 
 <h1 align="center">Social Media Links: 🔗</h1>
