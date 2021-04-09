@@ -22,11 +22,9 @@
 
 - Developer for EasterBot & ChristmasCountdown
 
-- Station Founder & Head Developer for: [Simulation.FM](https://simulation.fm/v1/)
-
 - Owner of DisListing (Coming Soon)
 
-- Owner of widget.style: [widgetstyle](https://widget.style/)
+- Owner of WidgetStyle: [widgetstyle](https://www.widgetstyle.xyz)
 
 <hr>
 
