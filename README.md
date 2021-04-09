@@ -26,6 +26,10 @@
 
 - Owner of WidgetStyle: [widgetstyle](https://www.widgetstyle.xyz)
 
+- Head Developer & Developer for: Strider
+
+- Owner of CordX
+
 <hr>
 
 <h1 align="center">Social Media Links: 🔗</h1>
