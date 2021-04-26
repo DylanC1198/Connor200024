@@ -26,9 +26,9 @@
 
 - Owner of WidgetStyle: [widgetstyle](https://www.widgetstyle.xyz)
 
-- Head Developer & Developer for: Strider
+- Developer for DicordHub
 
-- Owner of CordX
+- Owner/Developer for CordX Development
 
 <hr>
 
