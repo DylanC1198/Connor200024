@@ -26,7 +26,7 @@
 
 - Owner of WidgetStyle: [widgetstyle](https://www.widgetstyle.xyz)
 
-- Developer for DicordHub
+- Developer for DiscordHub
 
 - Owner/Developer for CordX Development
 
