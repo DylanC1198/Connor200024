@@ -12,10 +12,6 @@
 
 <h1 align="center">Current Projects: 🤔</h1>
 
-- Head Developer/Head Administration for: [ParadiseBotList](https://www.paradisebots.net/)
-
-- Head Developer for: [InfinityBotList](https://infinitybots.xyz/)
-
 - Founder of DisDevelopment: [Click Here](https://discord.gg/ABkPPztHdE)
 
 - Head Developer/Founder of: MemeBot & RadioBot
