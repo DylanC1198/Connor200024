@@ -12,19 +12,15 @@
 
 <h1 align="center">Current Projects: 🤔</h1>
 
+- Founder of BotHouseList: (😉 Coming back soon!)
+
 - Founder of DisDevelopment: [Click Here](https://discord.gg/ABkPPztHdE)
 
 - Head Developer/Founder of: MemeBot & RadioBot
 
 - Developer for EasterBot & ChristmasCountdown
 
-- Owner of DisListing (Coming Soon)
-
 - Owner of WidgetStyle: [widgetstyle](https://www.widgetstyle.xyz)
-
-- Developer for DiscordHub
-
-- Owner/Developer for CordX Development
 
 <hr>
 
