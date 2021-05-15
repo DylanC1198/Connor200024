@@ -20,7 +20,7 @@
 
 - Developer for EasterBot & ChristmasCountdown
 
-- Owner of WidgetStyle: [widgetstyle](https://www.widgetstyle.xyz)
+- Owner of WidgetStyle: [widgetstyle](https://www.widget.style)
 
 <hr>
 
